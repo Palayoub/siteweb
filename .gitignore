@@ -1,0 +1,5 @@
+#Ignore these files
+stupid.txt
+.DS_Store
+*.zip
+*.gz
