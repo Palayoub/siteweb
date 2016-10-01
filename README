@@ -1,4 +1,6 @@
+#include <stdio.h>
 I am ending a new README
 LOL
 feature3
+int k = 10;
 Adding a new line
